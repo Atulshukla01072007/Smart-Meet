@@ -28,9 +28,9 @@ Media streams are shared in real time.
 <img width="1075" height="268" alt="Screenshot from 2026-04-09 22-09-01" src="https://github.com/user-attachments/assets/4c7e7378-04b0-4c9f-b068-0ef684063263" />
 <img width="1650" height="429" alt="server terminal" src="https://github.com/user-attachments/assets/5f21f1c1-7536-4f13-a298-0116b0a0112f" />
 <img width="1913" height="862" alt="user data" src="https://github.com/user-attachments/assets/177d3425-8264-480d-b054-3f4738deaaea" />
-<img width="233" height="862" alt="Screenshot from 2026-04-09 22-13-24" src="h
 <img width="1046" height="422" alt="Screenshot from 2026-04-09 22-08-12" src="https://github.com/user-attachments/assets/a0551c82-a207-4db7-bef4-925155e7f3ba" />
-ttps://github.com/user-attachments/assets/04484665-7947-42b9-bcac-467aa1120ff7" />
+<img width="1067" height="338" alt="future improvements" src="https://github.com/user-attachments/assets/c862e5bd-22c7-4190-bdd2-19c791ee01d0" />
+<img width="1913" height="862" alt="user data" src="https://github.com/user-attachments/assets/5b199fcb-46fe-4c2b-b93e-6ac123a3d754" />
 
 Challenges Faced
 Managing real-time peer connections
